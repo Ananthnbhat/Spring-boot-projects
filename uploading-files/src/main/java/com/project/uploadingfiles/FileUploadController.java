@@ -18,7 +18,7 @@ import java.io.IOException;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-//TODO: check if RestController matters here
+
 @Controller
 public class FileUploadController {
     private final StorageService storageService;
